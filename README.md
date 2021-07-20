@@ -15,7 +15,7 @@ Output: meshed_plant_model
 
 Using the software in the windows DOS command line:
 
-e.g. E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"
+E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"
 
 
 Using the software in the MATLAB:
