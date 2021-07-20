@@ -9,4 +9,13 @@ from the following link on the MathWorks website:
 https://www.mathworks.com/products/compiler/mcr/index.html
 
 Input：input file path, point clouds name, output file path, output plant model name, threshold of mesh outlier (default 3), threshold of surface smoothing (default 0.5)
+
 Output: meshed_plant_model 
+
+Using the software in the windows DOS command line:
+e.g. E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"
+
+Using the software in the MATLAB:
+cmd=['E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"'];
+system(cmd)
+
