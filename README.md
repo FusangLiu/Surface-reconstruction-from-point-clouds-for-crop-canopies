@@ -20,6 +20,6 @@ e.g. E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_
 
 Using the software in the MATLAB:
 
-cmd=['E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"'];
+cmd=['E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"']; 
 system(cmd)
 
