@@ -13,6 +13,12 @@ Input：input file path, point clouds name, output file path, output plant model
 Output: meshed_plant_model 
 
 
+Note: 
+1) The input point cloud is must from the PLY or PCD file
+2) The output point cloud is the PLY file
+
+
+
 Using the software in the windows DOS command line:
 
 E:\PCSR\PCSR.exe "E:\PCSR" "example_maize_pc.ply" "E:\PCSR" "example_maize_pm.ply"
