@@ -13,7 +13,7 @@ from the following link on the MathWorks website:
 https://www.mathworks.com/products/compiler/mcr/index.html
 
 
-Input：input file path, point clouds name, output file path, output plant model name, threshold of mesh outlier (default 3), threshold of surface smoothing (default 0.5)
+Input：input file path, point clouds name, output file path, output plant model name, threshold of mesh outlier (default 3), threshold of surface smoothing (default 0.5), display(default 1)
 
 Output: meshed_plant_model 
 
