@@ -1,5 +1,5 @@
 # Suface-reconstruction-form-point-clouds-for-crop-canopies
-The surface reconstruction is a Crust-based method which firstly adopts the Crust method to triangulation and then uses a statistic method to filter abnormal facets (i.e. triangles)  
+The surface reconstruction is a Crust-based method which firstly adopts the Crust method to triangulation and then uses a statistic method to filter abnormal facets (i.e. triangles).The output plant model can be usde to directly calculate the leaf area and link to ray-tracing model for canopy photosynthesis calculation.  
 
 
 # Reference
