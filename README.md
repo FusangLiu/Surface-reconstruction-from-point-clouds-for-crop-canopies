@@ -22,7 +22,7 @@ Output: meshed_plant_model
 
 
 Note: 
-1) The input point cloud is must from the PLY or PCD file
+1) The input point cloud must be from the PLY or PCD file
 2) The output plant model is the PLY file which includes the point locations and triangle index.
 
 
